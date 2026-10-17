@@ -1,4 +1,4 @@
-package lucas;
+package dev.lucas;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

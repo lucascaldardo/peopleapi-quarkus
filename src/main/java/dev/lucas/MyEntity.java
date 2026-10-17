@@ -1,4 +1,4 @@
-package lucas;
+package dev.lucas;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.Entity;
