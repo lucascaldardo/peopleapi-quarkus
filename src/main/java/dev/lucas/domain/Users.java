@@ -11,9 +11,9 @@ public class Users extends PanacheEntityBase {
 
     @Id
     @GeneratedValue(strategy = GenerationType.UUID)
-    private UUID id;
-    private String username;
-    private String email;
+    public UUID id;
+    public String username;
+    public String email;
 
 
 }
